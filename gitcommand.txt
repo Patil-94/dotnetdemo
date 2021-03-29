@@ -1,0 +1,26 @@
+    6  git init
+    8  nano .gitignor
+   11  nano .gitignore
+   12  nano .gitignore
+   14  nano .gitignore
+   15  git add .
+   16  git status
+   17  git commit -m "Add Helloworld Project"
+   18  git commit -m "Add Helloworld Project"
+   19  git config --global user.email "you@example.com"
+   20  git config --global user.email "ankitakhairnar10@gmail.com"
+   21    git config --global user.name "Patil-94"
+   22  git commit -m "Add Helloworld Project"
+   23  git remote add origin https://github.com/Patil-94/dotnetdemo.git
+   24  git push -u origin master
+   29  git branch
+   31  git branch
+   32    git config --global user.name "Patil-94"
+   33    git config --list
+   34  git branch QA
+   35  git branch 
+   36  git branch -d QA
+   37  git branch 
+   40  git pull
+   43  history | grep git
+   45  history | grep git >gitcommand.txt
